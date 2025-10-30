@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Kayaking",
+    "location": "Uttar Pradesh",
+    "price": 999,
+    "image": "https://images.unsplash.com/photo-1668415871912-4baec8bc7bcb",
+    "category": "Adventure",
+    "description": "Paddle through serene backwaters surrounded by lush greenery and experience the calmness of nature up close.",
+    "slots": [
+      { "date": "2025-11-01", "time": "9:00 AM", "available": true },
+      { "date": "2025-11-02", "time": "2:00 PM", "available": true },
+      { "date": "2025-11-03", "time": "4:30 PM", "available": true }
+    ]
+  },
+  {
+    "title": "Nandi Hills Sunrise",
+    "location": "Bangalore",
+    "price": 699,
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4",
+    "category": "Nature",
+    "description": "Witness a breathtaking sunrise from Nandi Hills and enjoy panoramic views of the valley with cool morning mist.",
+    "slots": [
+      { "date": "2025-11-05", "time": "5:30 AM", "available": true },
+      { "date": "2025-11-06", "time": "5:30 AM", "available": true },
+      { "date": "2025-11-07", "time": "5:30 AM", "available": true }
+    ]
+  },
+  {
+    "title": "Coffee Trail",
+    "location": "Coorg",
+    "price": 1299,
+    "image": "https://images.unsplash.com/photo-1447933601403-0c6688de566e",
+    "category": "Cultural",
+    "description": "Explore aromatic coffee plantations, learn about coffee processing, and enjoy a freshly brewed cup in Coorg.",
+    "slots": [
+      { "date": "2025-11-08", "time": "10:00 AM", "available": true },
+      { "date": "2025-11-09", "time": "11:00 AM", "available": true },
+      { "date": "2025-11-10", "time": "1:00 PM", "available": true }
+    ]
+  },
+  {
+    "title": "Boat Cruise",
+    "location": "Sunderbans",
+    "price": 999,
+    "image": "https://images.unsplash.com/photo-1497584062917-342aeed55fdf",
+    "category": "Water Sports",
+    "description": "Cruise through the mangrove forests of Sunderbans and catch glimpses of exotic birds and wildlife.",
+    "slots": [
+      { "date": "2025-11-11", "time": "8:00 AM", "available": true },
+      { "date": "2025-11-12", "time": "3:00 PM", "available": true },
+      { "date": "2025-11-13", "time": "5:00 PM", "available": true }
+    ]
+  },
+  {
+    "title": "Bungee Jumping",
+    "location": "Manali",
+    "price": 999,
+    "image": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256",
+    "category": "Extreme",
+    "description": "Take the leap of faith with an adrenaline-pumping bungee jump amidst the scenic mountains of Manali.",
+    "slots": [
+      { "date": "2025-11-15", "time": "10:00 AM", "available": true },
+      { "date": "2025-11-16", "time": "12:00 PM", "available": true },
+      { "date": "2025-11-17", "time": "3:00 PM", "available": true }
+    ]
+  }
+]
